@@ -1,5 +1,5 @@
  package com.md5;
 
- public class Test {
+ public class Test1 {
 
 }
